@@ -1,3 +1,3 @@
 Learning git is going well so far
 I added this line in update-readme branch
-Its windy outside
+Its cloudy outside
